@@ -1,4 +1,4 @@
-# 깃 스터디
+# 깃 스터디 [![Build Status](https://travis-ci.org/hardsoul/test01.svg?branch=master)](https://travis-ci.org/hardsoul/test01)
 ## h2
 ### h3
 #### h4
